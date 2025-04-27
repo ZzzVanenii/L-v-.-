@@ -65,6 +65,6 @@
   <p>
     Aunque las palabras no puedan describir todo lo que siento, te prometo que mi amor por ti es infinito y cada día crece más.
   </p>
-  <a href="mailto:tuemail@ejemplo.com" class="cta-button">Escríbeme un mensaje</a>
+  <a href="mailto:vanejim189@gmail.com" class="cta-button">Escríbeme un mensaje</a>
 </body>
 </html>
